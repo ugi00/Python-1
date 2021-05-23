@@ -3,7 +3,6 @@ from tkinter import font
 import tkinter.ttk
 import Show
 
-
 class Main:
     window = Tk()
     Font = font.Font(window, size=15, weight='bold', family='Consolas')
